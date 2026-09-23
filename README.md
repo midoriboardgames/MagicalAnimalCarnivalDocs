@@ -1,24 +1,47 @@
-Magical Animal Carnival
+# Magical Animal Carnival
 
-Magical Animal Carnival is a board game designed by Midori.
+**Magical Animal Carnival** is a board game designed by **Midori**.
 
-This repository contains documentation for the game, including:
+This repository contains the official documentation for Magical Animal Carnival, including the rulebook, quick-reference materials, playtest materials, and related assets.
 
-Rulebook
-Quick Rules
-Playtest materials
-Related assets
-Status
+## Status
 
 Magical Animal Carnival is currently under development and playtesting.
 
-The rules and other materials in this repository may change during development.
+The rules, balance, components, and other materials may change during development.
 
-Documentation
-rules/ — Full rulebook
-quick-rules/ — Quick reference for teaching and gameplay
-playtest/ — Playtest-related materials
-assets/ — Images and other documentation assets
-Designer
+## Rulebook
 
-Midori
+### Japanese
+
+- [Magical Animal Carnival Rulebook v0.1.0](rules/ja/MagicalAnimalCarnival_Rulebook_v0.1.0.md)
+
+**Current rules version:** v0.1.0  
+**Initial public release:** September 24, 2026
+
+Older versions and release history will be preserved through the repository history and GitHub Releases.
+
+## Documentation
+
+- `rules/` — Full rulebooks
+- `quick-rules/` — Quick references for teaching and gameplay
+- `playtest/` — Playtest-related materials
+- `assets/` — Images and other documentation assets
+
+## Versioning
+
+Rule changes are tracked by version number.
+
+Published versions are preserved so that the rules used for a particular playtest or implementation can be identified later.
+
+See [CHANGELOG.md](CHANGELOG.md) for the documentation change history.
+
+## Designer
+
+**Midori**
+
+## Copyright
+
+Copyright © 2026 Midori. All rights reserved.
+
+Unless otherwise stated, the contents of this repository are not released under an open-source or open-content license.
