@@ -21,12 +21,20 @@ The rules, balance, components, and other materials may change during developmen
 
 Older versions and release history will be preserved through the repository history and GitHub Releases.
 
+## Card Preview
+
+A low-resolution preview sheet of the current basic-set cards is available below.
+
+[View the Magical Animal Carnival Card Sheet](assets/cards/MagicalAnimalCarnival_CardSheet_low.webp)
+
+The image in this repository is intended for preview and documentation purposes. High-resolution production and print assets are not included in this public repository.
+
 ## Documentation
 
 - `rules/` — Full rulebooks
 - `quick-rules/` — Quick references for teaching and gameplay
 - `playtest/` — Playtest-related materials
-- `assets/` — Images and other documentation assets
+- `assets/` — Public preview images and other documentation assets
 
 ## Versioning
 

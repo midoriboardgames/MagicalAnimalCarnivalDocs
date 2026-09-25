@@ -4,6 +4,10 @@ All notable changes to the rules and documentation of **Magical Animal Carnival*
 
 ## Unreleased
 
+### Added
+
+- Added a low-resolution preview sheet of the basic-set cards for public documentation.
+
 ## v0.1.0 - 2026-09-24
 
 ### Added
