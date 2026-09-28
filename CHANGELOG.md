@@ -7,6 +7,11 @@ All notable changes to the rules and documentation of **Magical Animal Carnival*
 ### Added
 
 - Added a low-resolution preview sheet of the basic-set cards for public documentation.
+- Added an English translation of the v0.1.0 rulebook.
+
+### Changed
+
+- Updated the project status to reflect the Board Game Arena Studio implementation and submitted Private Alpha request.
 
 ## v0.1.0 - 2026-09-24
 

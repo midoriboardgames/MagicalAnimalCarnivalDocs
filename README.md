@@ -1,25 +1,31 @@
 # Magical Animal Carnival
 
-**Magical Animal Carnival** is a board game designed by **Midori**.
+**Magical Animal Carnival** is an original board game designed by **Midori**.
 
-This repository contains the official documentation for Magical Animal Carnival, including the rulebook, quick-reference materials, playtest materials, and related assets.
+This repository contains the official public documentation and preview materials for Magical Animal Carnival.
 
 ## Status
 
-Magical Animal Carnival is currently under development and playtesting.
+The core rules of **Magical Animal Carnival** are established, and the game is currently under active development and playtesting.
 
-The rules, balance, components, and other materials may change during development.
+The game has been implemented on **Board Game Arena Studio** under the project name **MagicalAnimalCarnival**, and a request for **Private Alpha status** has been submitted for closed playtesting with invited players.
+
+The current public rules version is **v0.1.0**. Minor adjustments to balance, wording, usability, and individual rules may still be made based on playtest results.
 
 ## Rulebook
 
+### English
+
+- [Magical Animal Carnival Rulebook v0.1.0 — English](rules/en/MagicalAnimalCarnival_Rulebook_v0.1.0_en.md)
+
 ### Japanese
 
-- [Magical Animal Carnival Rulebook v0.1.0](rules/ja/MagicalAnimalCarnival_Rulebook_v0.1.0.md)
+- [Magical Animal Carnival Rulebook v0.1.0 — Japanese](rules/ja/MagicalAnimalCarnival_Rulebook_v0.1.0.md)
 
-**Current rules version:** v0.1.0  
+**Current public rules version:** v0.1.0  
 **Initial public release:** September 24, 2026
 
-Older versions and release history will be preserved through the repository history and GitHub Releases.
+Published versions and release history are preserved through the repository history and GitHub Releases.
 
 ## Card Preview
 
@@ -31,10 +37,9 @@ The image in this repository is intended for preview and documentation purposes.
 
 ## Documentation
 
-- `rules/` — Full rulebooks
-- `quick-rules/` — Quick references for teaching and gameplay
-- `playtest/` — Playtest-related materials
-- `assets/` — Public preview images and other documentation assets
+- `rules/` — Public rulebooks in supported languages
+- `playtest/` — Public playtest-related materials
+- `assets/` — Public preview images and documentation assets
 
 ## Versioning
 
@@ -42,11 +47,17 @@ Rule changes are tracked by version number.
 
 Published versions are preserved so that the rules used for a particular playtest or implementation can be identified later.
 
+Minor corrections and clarifications may use patch versions such as `v0.1.1`.
+
+Changes that materially affect gameplay may use versions such as `v0.2.0`.
+
 See [CHANGELOG.md](CHANGELOG.md) for the documentation change history.
 
-## Designer
+## Designer and Rights Holder
 
 **Midori**
+
+Magical Animal Carnival is currently independently developed. Midori is the designer and current rights holder of the game.
 
 ## Copyright
 
