@@ -4,6 +4,18 @@ All notable changes to the rules and documentation of **Magical Animal Carnival*
 
 ## Unreleased
 
+## v0.2.1 - 2026-10-29
+
+### Added
+
+- Added a continuation rule for the rare case where the required Wind / Dark safety reserve still cannot be met after all replenishment cards have been added to the deck.
+- Added a rulebook FAQ explaining why the safety reserve can formally exceed the number of cards needed for actual draws.
+
+### Clarified
+
+- Clarified that the Wind safety reserve intentionally uses **5 cards per player for both Wind 2 and Wind 4** to keep the physical-game calculation simple.
+- Clarified that when all replenishment cards have been used, only the remaining **safety reserve shortfall** is ignored; required starting hands, Water Reserve Cards, and other cards actually dealt are not reduced.
+
 ## v0.2.0 - 2026-10-28
 
 ### Added
