@@ -10,20 +10,25 @@ The core rules of **Magical Animal Carnival** are established, and the game is c
 
 The game has been implemented on **Board Game Arena Studio** under the project name **MagicalAnimalCarnival**, and a request for **Private Alpha status** has been submitted for closed playtesting with invited players.
 
-The current public rules version is **v0.1.0**. Minor adjustments to balance, wording, usability, and individual rules may still be made based on playtest results.
+The current public rules version is **v0.2.0**. Minor adjustments to balance, wording, usability, and individual rules may still be made based on playtest results.
 
 ## Rulebook
 
 ### English
 
+- [Magical Animal Carnival Rulebook v0.2.0 — English](rules/en/MagicalAnimalCarnival_Rulebook_v0.2.0_en.md)
 - [Magical Animal Carnival Rulebook v0.1.0 — English](rules/en/MagicalAnimalCarnival_Rulebook_v0.1.0_en.md)
 
 ### Japanese
 
+- [Magical Animal Carnival Rulebook v0.2.0 — Japanese](rules/ja/MagicalAnimalCarnival_Rulebook_v0.2.0_ja.md)
 - [Magical Animal Carnival Rulebook v0.1.0 — Japanese](rules/ja/MagicalAnimalCarnival_Rulebook_v0.1.0.md)
 
-**Current public rules version:** v0.1.0  
+**Current public rules version:** v0.2.0
+
 **Initial public release:** September 24, 2026
+
+**Latest rules update:** October 28, 2026
 
 Published versions and release history are preserved through the repository history and GitHub Releases.
 
@@ -38,6 +43,7 @@ The image in this repository is intended for preview and documentation purposes.
 ## Documentation
 
 - `rules/` — Public rulebooks in supported languages
+- `quick-rules/` — Quick-reference and simplified rules materials
 - `playtest/` — Public playtest-related materials
 - `assets/` — Public preview images and documentation assets
 
@@ -47,9 +53,9 @@ Rule changes are tracked by version number.
 
 Published versions are preserved so that the rules used for a particular playtest or implementation can be identified later.
 
-Minor corrections and clarifications may use patch versions such as `v0.1.1`.
+Minor corrections and clarifications may use patch versions such as `v0.2.1`.
 
-Changes that materially affect gameplay may use versions such as `v0.2.0`.
+Changes that materially affect gameplay or the published rules may use versions such as `v0.3.0`.
 
 See [CHANGELOG.md](CHANGELOG.md) for the documentation change history.
 
